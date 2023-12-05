@@ -33,27 +33,27 @@ Part 2: Scrape and Analyze Mars Weather Data
 
 5.	Analyzing your dataset by using Pandas functions to answer the following questions:
 
-o	How many months exist on Mars?
+    o	How many months exist on Mars?
 
-o	How many Martian (and not Earth) days’ worth of data exists in the scraped dataset?
+    o	How many Martian (and not Earth) days’ worth of data exists in the scraped dataset?
 
-o	What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
+    o	What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
 
-	Find the average minimum daily temperature for all the months.
+      	Find the average minimum daily temperature for all the months.
 
-	Plot the results as a bar chart.
+      	Plot the results as a bar chart.
 
-o	Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
+    o	Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 
-	Find the average daily atmospheric pressure of all the months.
+      	Find the average daily atmospheric pressure of all the months.
 
-	Plot the results as a bar chart.
+      	Plot the results as a bar chart.
 
-o	How many terrestrial (Earth) days exist in a Martian year? To answer this question:
+    o	How many terrestrial (Earth) days exist in a Martian year? To answer this question:
 
-	Consider how many days elapse on Earth in the time that Mars circles the Sun once.
+      	Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 
-	Visually estimate the result by plotting the daily minimum temperature.
+      	Visually estimate the result by plotting the daily minimum temperature.
 
-o	Export the DataFrame to a CSV file.
+    o	Export the DataFrame to a CSV file.
 
