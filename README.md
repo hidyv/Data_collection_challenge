@@ -7,7 +7,7 @@ This project has two parts to create two deliverables:
 
 •	Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
-The data is collected through web scrapping, extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.
+The data is collected through web scrapping, extracting information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.
 
 Part 1: Scrape Titles and Preview Text from Mars News
 
@@ -18,18 +18,18 @@ Part 1: Scrape Titles and Preview Text from Mars News
 
 3.	Scrape the site to extract titles and preview text of the news articles and store them in Python list of dictionaries.
 
-4.	Exported the extracted data as JSON file.
+4.	Export the extracted data as JSON file.
 
 Part 2: Scrape and Analyze Mars Weather Data
 
 
-1.	Using automated browsing to visit the Mars Temperature Data. Inspecting the page to identify which elements to scrape.
+1.	Using automated browsing to visit the site (https://static.bc-edx.com/data/web/mars_facts/temperature.html) Inspect the page to identify which elements to scrape.
 
-2.	Creating a Beautiful Soup object and using it to scrape the data in the HTML table.
+2.	Create a Beautiful Soup object and use it to scrape the data in the HTML table.
 
-3.	Assembling the scraped data into a Pandas DataFrame.
+3.	Assemble the scraped data into a Pandas DataFrame.
 
-4.	Examining the data types that are currently associated with each column.
+4.	Examine the data types that are currently associated with each column and change to data types for data analysis.
 
 5.	Analyzing your dataset by using Pandas functions to answer the following questions:
 
@@ -49,7 +49,7 @@ o	Which months have the lowest and the highest atmospheric pressure on Mars? To 
 
 	Plot the results as a bar chart.
 
-o	About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
+o	How many terrestrial (Earth) days exist in a Martian year? To answer this question:
 
 	Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 
